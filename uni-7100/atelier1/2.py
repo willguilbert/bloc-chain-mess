@@ -4,7 +4,6 @@ print([3] * 10)
 
 l = []
 for _ in range(10):
-
     l.append(3)
 
 print(l)
